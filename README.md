@@ -80,6 +80,14 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 
 ---
 
-## MODEL GRAPH
+## TABULATION 
+<img width="1396" height="748" alt="WhatsApp Image 2026-09-28 at 2 40 05 AM" src="https://github.com/user-attachments/assets/dc188597-6ce9-4a17-9aad-491bb1bc9b3b" />
 
+## CALCULATION 
+
+ <img width="764" height="1490" alt="WhatsApp Image 2026-09-28 at 2 40 05 AM (1)" src="https://github.com/user-attachments/assets/36fbb3b8-4112-4500-aecc-217aa193736f" />
+
+
+## RESULT 
+ The Frequency Modulation is Generated successfully.
 
